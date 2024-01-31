@@ -1,0 +1,9 @@
+opencv-python-headless
+face-recognition
+cmake
+python-multipart
+uvicorn
+flask
+Flask-Cors
+psycopg2-binary
+
